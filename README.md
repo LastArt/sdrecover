@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://example.com/logo.png" alt="Логотип" style="vertical-align: middle; width: 40px; margin-right: 10px;">
+  <img src="https://example.com/logo.png" style="vertical-align: middle; width: 48 px; margin-right: 10 px;">
   SD Recover
 </h1>
 
