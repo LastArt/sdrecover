@@ -1,4 +1,7 @@
-[Imgur](https://imgur.com/h6FyoA5) # SD Recover
+<h1>
+  <img src="https://example.com/logo.png" alt="Логотип" style="vertical-align: middle; width: 40px; margin-right: 10px;">
+  SD Recover
+</h1>
 
 **SD Recover** – это скрипт для восстановления и форматирования флеш-накопителей. 
 Скрипт автоматически находит съёмные устройства, выводит их в виде аккуратно отформатированной таблицы, запрашивает у пользователя выбор нужного устройства, 
